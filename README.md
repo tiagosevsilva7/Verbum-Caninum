@@ -1,20 +1,21 @@
-# 🗡️ Dead Swarm: O Último Bastião (Estilo Bullet Hell) - 
+# Verbum Caninum
 
-> Jogo no estilo bullet hell ambientado em um apocalipse zumbi, desenvolvido para a disciplina de Introdução a Programação do Cin-UFPE
+
+> Jogo no estilo bullet hell ambientado em um futuro distópico, onde Byte é o protagonista principal, desenvolvido para a disciplina de Introdução a Programação do Cin-UFPE
 
 ---
 
 ## 📋 Sobre o Jogo:
 Este projeto consiste em um jogo 2D de ação e sobrevivência, desenvolvido 100% em Python aplicando conceitos de Programação Orientada a Objetos (POO) e Lógica de Programação Introdutória aprendidos nas aulas da disciplina de Introdução a Programação. 
 
-O jogador controla um personagem em uma arena 2D com o objetivo de sobreviver a hordas de inimigos enquanto coleta diferentes tipos de itens espalhados pelo mapa, com registro e exibição em tempo real na interface.
+O jogador controla Byte em uma arena 2D com o objetivo de sobreviver a hordas de inimigos enquanto coleta diferentes tipos de itens espalhados pelo mapa, com registro e exibição em tempo real na interface.
 
 ---
 
 ## 🪙 Tipos de Coletáveis Principais:
-  1. 🛡️ **Escudo Temporário:** Concede um escudo que bloqueia ataques por 5 segundos.
-  2. 🏹 **Aumento do Arsenal:** Aumenta o número de projéteis do personagem.
-  3. ❤️ **Poção / Item de Cura:** Restaura os pontos de vida do personagem.
+  1. 🅰️ **Letras do Alfabeto:** Fornece a força necessária para Byte conseguir seu objetivo final.
+  2. 🏹 **Aumento do Arsenal:** Aumenta o número de projéteis de Byte.
+  3. ❤️ **Poção / Item de Cura:** Restaura os pontos de vida de Byte.
 - Registro em Tela: Contabilização e exibição simultânea da quantidade coletada de cada item principal.
 
 ---
